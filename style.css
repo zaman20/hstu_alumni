@@ -105,3 +105,12 @@ img.logo-image {
     height: 30px;
     margin-top: 270px;
 }
+.content-area{
+    margin-top: 50px;
+    min-height:250px;
+}
+.content-area h3{
+    border-bottom: 3px solid rgb(219, 219, 219);
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
